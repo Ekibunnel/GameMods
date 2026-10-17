@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kcd_mod>
+  <info>
+    <name>UnbreakableLockpick</name>
+    <description>Grant an edited version of the repairman skill that make lockpick never break</description>
+    <author>Ekibunnel</author>
+    <version>1.0</version>
+    <created_on>16-10-2026</created_on>
+  </info>
+</kcd_mod>

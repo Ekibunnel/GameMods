@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="soul2perk" version="1">
+<!--     <header>
+      <column name="perk_id" type="uuid" />
+      <column name="soul_id" type="uuid" />
+    </header> -->
+    <rows>
+	  <row perk_id="edff52b6-e22f-4f7c-8647-5619369a960b" soul_id="43144483-f3bb-fab8-9ceb-f77e3020598a" />
+    </rows>
+  </table>
+</database>

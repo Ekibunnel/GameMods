@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="buff" version="1">
+<!--     <header>
+      <column name="buff_ai_tag_id" type="integer" />
+      <column name="buff_class_id" type="integer" />
+      <column name="buff_desc" type="character varying" />
+      <column name="buff_exclusivity_id" type="integer" />
+      <column name="buff_id" type="uuid" />
+      <column name="buff_lifetime_id" type="integer" />
+      <column name="buff_name" type="character varying" />
+      <column name="buff_ui_name" type="character varying" />
+      <column name="buff_ui_order" type="integer" />
+      <column name="buff_ui_type_id" type="integer" />
+      <column name="buff_ui_visibility_id" type="integer" />
+      <column name="duration" type="real" />
+      <column name="icon_id" type="integer" />
+      <column name="implementation" type="character varying" />
+      <column name="is_persistent" type="boolean" />
+      <column name="params" type="character varying" />
+      <column name="slot_buff_ui_name" type="character varying" />
+      <column name="slot_icon_id" type="integer" />
+      <column name="visual_effect" type="character varying" />
+    </header> -->
+    <rows>
+      <row buff_ai_tag_id="" buff_class_id="4" buff_desc="" buff_exclusivity_id="1" buff_id="0a6b8191-267b-4d39-b585-675dd759c6ef" buff_lifetime_id="1" buff_name="perk_repairman" buff_ui_name="" buff_ui_order="" buff_ui_type_id="4" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:Constant" is_persistent="True" params="prc=0,pds=0,lpb=0" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
+	</rows>
+  </table>
+</database>
